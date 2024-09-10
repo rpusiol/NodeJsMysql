@@ -15,3 +15,4 @@ export const MYSQLUSER= process.env.MYSQLUSER;
 export const MYSQLPASSWORD= process.env.MYSQLPASSWORD;
 export const MYSQLPORT= process.env.MYSQLPORT;
 export const MYSQLDATABASE= process.env.MYSQLDATABASE;
+export const MYSQLCONNECT= process.env.MYSQLCONNECT;
